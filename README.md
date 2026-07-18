@@ -47,7 +47,14 @@ My current focus is building high-quality backend applications while growing dee
 - VS Code
 
 ---
+## Areas of Expertise
 
+- Backend Development with Java & Spring Boot
+- Object-Oriented Programming
+- Problem Solving
+- REST API Development
+- Database Design
+---
 ## Current Focus
 
 - Artificial Intelligence
@@ -66,8 +73,6 @@ A full-stack e-commerce platform built with Java, Spring Boot, MySQL, Thymeleaf,
 ### 🔐 Secure Password Vault
 A desktop password manager developed in Python with a focus on secure credential management.
 
-### 🍝 Italian Food Ordering System
-A web application built using PHP and MySQL for online food ordering.
 
 ---
 
@@ -85,5 +90,3 @@ A web application built using PHP and MySQL for online food ordering.
 - LinkedIn: https://linkedin.com/in/ganna-hany-elwan
 - Email: gannahanyelwan@gmail.com
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
