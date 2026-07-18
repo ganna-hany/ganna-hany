@@ -50,6 +50,7 @@ I believe that the best way to learn is by building, which is why I continuously
 ## Core Skills
 
 - Backend Development
+- Full-Stack Web Development
 - Object-Oriented Programming (OOP)
 - Problem Solving
 - REST API Development
