@@ -1,18 +1,18 @@
-# Backend Development • Artificial Intelligence • Machine Learning
+# Backend Engineer • AI & Machine Learning Enthusiast
 
-Building scalable backend applications while exploring intelligent systems and machine learning.
+Building scalable backend applications while exploring intelligent, data-driven solutions.
+
+---
 
 ## About
 
-My interest in technology began with a curiosity about Artificial Intelligence and how intelligent systems solve real-world problems. That curiosity led me into software development, where I explored different programming languages and built projects that transformed ideas into practical applications.
+My interest in technology began with a curiosity about Artificial Intelligence and how intelligent systems solve real-world problems. That curiosity led me into software development, where I explored multiple programming languages and built projects that transformed ideas into practical applications.
 
-As I gained experience, I developed a strong interest in backend engineering. I enjoy designing application logic, building RESTful APIs, working with databases, and creating software that is reliable, maintainable, and scalable.
+As I gained experience, I discovered a passion for backend engineering. I enjoy designing application logic, building RESTful APIs, working with databases, and developing software that is scalable, maintainable, and efficient.
 
-Beyond backend development, I continue expanding my knowledge of Artificial Intelligence and Machine Learning, combining software engineering principles with data-driven technologies to build intelligent solutions.
+Alongside backend development, I continue expanding my knowledge of Artificial Intelligence and Machine Learning while strengthening my analytical thinking and problem-solving skills through competitive programming and hands-on projects.
 
-I also enjoy challenging myself through competitive programming, strengthening my analytical thinking and problem-solving skills by designing efficient algorithms under time constraints.
-
-My current focus is building high-quality backend applications while growing deeper expertise in AI and Machine Learning.
+I believe that the best way to learn is by building, which is why I continuously challenge myself with projects that combine clean software engineering practices with practical problem-solving.
 
 ---
 
@@ -28,18 +28,18 @@ My current focus is building high-quality backend applications while growing dee
 - HTML5
 - CSS3
 
-### Backend Development
+### Backend
 
 - Spring Boot
-- REST APIs
-- Thymeleaf
+- RESTful APIs
 - MVC Architecture
+- Thymeleaf
 
-### Databases
+### Database
 
 - MySQL
 
-### Tools & Technologies
+### Tools
 
 - Git
 - GitHub
@@ -47,19 +47,23 @@ My current focus is building high-quality backend applications while growing dee
 - VS Code
 
 ---
-## Areas of Expertise
 
-- Backend Development with Java & Spring Boot
-- Object-Oriented Programming
+## Core Skills
+
+- Backend Development
+- Object-Oriented Programming (OOP)
 - Problem Solving
 - REST API Development
 - Database Design
+- Software Engineering Principles
+
 ---
-## Current Focus
+
+## Currently Exploring
 
 - Artificial Intelligence
 - Machine Learning
-- Backend Engineering
+- Backend Architecture
 - System Design
 - Data Structures & Algorithms
 
@@ -68,11 +72,36 @@ My current focus is building high-quality backend applications while growing dee
 ## Featured Projects
 
 ### 🛍️ Pink Aura
+
 A full-stack e-commerce platform built with Java, Spring Boot, MySQL, Thymeleaf, HTML, CSS, and JavaScript.
 
-### 🔐 Secure Password Vault
-A desktop password manager developed in Python with a focus on secure credential management.
+**Highlights**
+- Developed secure authentication and user management
+- Built RESTful backend services
+- Designed and integrated a relational MySQL database
+- Implemented a responsive user interface
 
+---
+
+### 🔐 Secure Password Vault
+
+A desktop password manager developed with Python, focused on secure credential storage and user-friendly desktop interaction.
+
+**Highlights**
+- Secure password storage
+- User-friendly desktop interface
+- Local credential management
+
+---
+
+### 🍝 Italian Food Ordering System
+
+A web-based food ordering platform developed using PHP and MySQL.
+
+**Highlights**
+- Menu and order management
+- Database integration
+- Dynamic web application
 
 ---
 
@@ -80,13 +109,14 @@ A desktop password manager developed in Python with a focus on secure credential
 
 - Artificial Intelligence
 - Machine Learning
-- Backend Development
+- Backend Engineering
 - Software Engineering
 - Scalable Systems
+- Intelligent Applications
 
 ---
 
 ## Connect
-- LinkedIn: https://linkedin.com/in/ganna-hany-elwan
-- Email: gannahanyelwan@gmail.com
 
+- **LinkedIn:** www.linkedin.com/in/ganna-hany-elwan
+- **Email:** gannahanyelwan@gmail.com
