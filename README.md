@@ -33,7 +33,7 @@ I believe that the best way to learn is by building, which is why I continuously
 - Spring Boot
 - RESTful APIs
 - MVC Architecture
-- Thymeleaf
+
 
 ### Database
 
@@ -41,9 +41,8 @@ I believe that the best way to learn is by building, which is why I continuously
 
 ### Tools
 
-- Git
 - GitHub
-- IntelliJ IDEA
+-Eclipse IDE
 - VS Code
 
 ---
@@ -59,13 +58,11 @@ I believe that the best way to learn is by building, which is why I continuously
 
 ---
 
-## Currently Exploring
+## Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Backend Architecture
-- System Design
-- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- AI Automation & Intelligent Workflows
+- Backend Engineering
 
 ---
 
