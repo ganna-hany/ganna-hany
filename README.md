@@ -1,4 +1,4 @@
-# Backend Engineer • AI & Machine Learning Enthusiast
+#  AI & Machine Learning Enthusiast
 
 Building scalable backend applications while exploring intelligent, data-driven solutions.
 
